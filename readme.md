@@ -1,6 +1,6 @@
 # Deep Learning Experiments & Projects
 
-A collection of deep learning implementations, neural network architectures, and practical machine learning projects built with Python and TensorFlow / Keras.
+A collection of deep learning implementations, neural network architectures, and practical machine learning projects built with Python and TensorFlow / Keras
 
 ---
 
