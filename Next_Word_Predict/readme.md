@@ -28,14 +28,14 @@ In this project, we explored both **Simple Recurrent Neural Networks (SimpleRNN)
 
 ---
 
-## 📊 Dataset Details
-The dataset used is `qoute_dataset.csv`:
+## 📊 Dataset Detail2
+The dataset used for this project is `qoute_dataset.csv`.
+
 - **Total Records:** 3,038 quotes
-- **Attributes:** `quote` (text), `Author` (Albert Einstein, Marilyn Monroe, Jane Austen, J.K. Rowling, etc.)
+- **Attributes:** `quote` (text), `Author` (e.g., Albert Einstein, Marilyn Monroe, Jane Austen, J.K. Rowling, etc.)
 - **Total N-Gram Sequences Generated:** 85,270 training sequences
 - **Vocabulary Size ($V$):** 8,978 unique words
 - **Maximum Sequence Length ($\text{max\_len}$):** 745 tokens
-
 ---
 
 ## ⚙️ Text Preprocessing Pipeline
